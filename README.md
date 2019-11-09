@@ -1,1 +1,2 @@
-# multiple_regression_demo
+This is the code from the StatQuest...
+* Multiple Regression in R: https://youtu.be/hokALdIst8k
