@@ -129,7 +129,7 @@ summary(multiple.regression)
  
 #######################################################
 ##
-## Now, let's see if "tail" makes a significant controbution by 
+## Now, let's see if "tail" makes a significant contribution by 
 ## comparing the "simple" fit (which does not include the tail data) 
 ## to the "multiple" fit (which has the extra term for the tail data)
 ##
